@@ -1,4 +1,4 @@
-# 📈 A/A/B Test for Revenue Optimization
+# 📈 A/B Test for Revenue Optimization
 
 > A data analysis project focused on prioritizing business hypotheses and evaluating A/B test results to optimize revenue through data-driven decision-making.
 
@@ -174,7 +174,7 @@ The notebook includes:
 # 📁 Repository Structure
 
 ```text
-aab-test-revenue-optimization/
+ab-test-revenue-optimization/
 │
 ├── README.md
 ├── Revenue Optimization AB Test.ipynb
